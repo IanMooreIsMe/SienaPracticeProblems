@@ -1,7 +1,7 @@
 import kotlin.test.assertEquals
 
 object Problem2 {
-    fun run(m: Int, n: Int): Int {
+    fun run(m: Int, n: Int) : Int {
         return (1 .. m).map { it * (n - (m - it)) }.sum()
     }
 }
