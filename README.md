@@ -7,7 +7,7 @@ The contest only allows Java, Python, and C. I'm not sure if Kotlin is allowed e
 
 - [x] Problem 1
 - [x] Problem 2
-- [ ] Problem 3
+- [x] Problem 3
 - [x] Problem 4
 - [x] Problem 5
 - [ ] Problem 6
